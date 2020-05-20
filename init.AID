@@ -4,7 +4,7 @@ sudo apt install python3
 
 sudo chmod +x 1.AID  2.AID  AID_python.py  better_apt.AID  hack.AID  init.AID  readme.txt  update.AID  VM.AID
 
-#AID start 0.05
+#AID start 0.1
 
 echo "Hello!" 
 
@@ -20,11 +20,11 @@ echo "here are some functions"
 
 echo "  "
 
-echo "would you like to turn off 1pv6 if so type 'sudo ./1.AI'"
+echo "would you like to turn off 1pv6 if so type 'sudo ./1.AID'"
 
 echo ""
 
-echo "would you like to turn on 1pv6 if so type 'sudo ./2.AI'"
+echo "would you like to turn on 1pv6 if so type 'sudo ./2.AID'"
 
 echo ""
 
