@@ -1,0 +1,9 @@
+#enable_ipv6
+
+sudo touch /etc/sysctl.d/70-disable-ipv6.conf
+
+sudo echo "net.ipv6.conf.all.disable_ipv6 = 0" > /etc/sysctl.d/70-disable-ipv6.conf
+
+sudo sysctl -p -f /etc/sysctl.d/70-disable-ipv6.conf
+
+sudo ifconfig

@@ -1,0 +1,44 @@
+sudo apt install python3
+#AID start 0.05
+echo "Hello!" 
+echo ""
+#testing python interactions
+python3 AID_python.py
+#testing user interactions
+
+echo "here are some functions"
+
+echo "  "
+
+echo "would you like to turn off 1pv6 if so type 'sudo ./1.AI'"
+
+echo ""
+
+echo "would you like to turn on 1pv6 if so type 'sudo ./2.AI'"
+
+echo ""
+
+
+echo "do you want to install katoolin if so type 'sudo ./hack.AID'"
+
+echo ""
+
+
+echo "if you would like to install fast-apt, (debain tested only) please use 'sudo ./better_apt.AID'"
+
+echo ""
+
+
+echo "go to my github https://github.com/Bumpsh"
+
+echo ""
+
+echo "my goal is to make a basic and easy to read and to modify functions for new users"
+
+echo ""
+
+sudo chmod +x better_apt.AID hack.AID update.AID 1.AID 2.AID AID_python.py
+
+echo ""
+
+echo "this has been tested with kali linux and that only sorry if you have problems."
