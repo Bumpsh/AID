@@ -2,7 +2,7 @@
 
 sudo apt install python3
 
-sudo chmod +x 1.AID  2.AID  AID_python.py  better_apt.AID  hack.AID  init.AID  readme.txt  update.AID  VM.AID
+sudo chmod +x 1.AID  2.AID  AID_python.py  better_apt.AID  hack.AID  init.AID  readme.txt  update.AID  VM.AID  AID_update.AID
 
 #AID start 0.1
 
@@ -45,6 +45,10 @@ echo "if you want a Oracle VirtualBox type 'sudo VM.AID'"
 
 echo ""
 
+echo "to update AID run 'sudo ./AID_update.AID'"
+
+echo ""
+
 echo "visit my github https://github.com/Bumpsh"
 
 echo ""
@@ -54,3 +58,7 @@ echo "my goal is to make a basic and easy to read and to modify functions for ne
 echo ""
 
 echo "this has been tested with kali linux and that only sorry if you have problems."
+
+echo ""
+
+echo "if you have just updated AID your new aid is in /home/AID/"

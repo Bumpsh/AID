@@ -1,0 +1,16 @@
+sudo rm -rf /home/AID/new_AID
+
+touch /home/AID
+
+git clone https://github.com/Bumpsh/AID.git /home/AID/new_AID
+
+echo ""
+
+echo "your updated AID is in /home/AID/new_AID"
+
+echo ""
+
+sudo chmod +x /home/AID/new_AID/init.AID
+
+sudo ./init.AID
+
