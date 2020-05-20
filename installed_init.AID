@@ -1,0 +1,51 @@
+#! /bin/sh
+
+echo "you have installed 'AID'"
+
+echo ""
+
+echo "here are some new commands"
+
+echo ""
+
+echo "to update AID type 'AID_update'"
+
+echo ""
+
+echo "to disable ipv6 type 'no_ipv6'"
+
+echo ""
+
+echo "to enable ipv6 type 'ipv6'"
+
+echo ""
+
+echo "to install virtaul box type 'VM'"
+
+echo ""
+
+echo "to install katoolin type 'hack_installer'"
+
+echo ""
+
+echo "to install fast apt type 'install_fast_apt'"
+
+echo ""
+
+echo "to install all tools type 'install_all'"
+
+echo ""
+
+echo "to update type 'update'"
+
+echo ""
+
+echo "no need to be in this folder anymore you can execute these anywere"
+
+echo ""
+
+echo "to see this again type 'init_help'"
+
+echo ""
+
+echo "if you have updated AID go to '/home/AID' your updated file is in there... just dont forget to move it before the next update"

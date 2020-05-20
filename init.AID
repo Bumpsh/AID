@@ -2,9 +2,9 @@
 
 sudo apt install python3
 
-sudo chmod +x 1.AID  2.AID  AID_python.py  better_apt.AID  hack.AID  init.AID  readme.txt  update.AID  VM.AID  AID_update.AID
+sudo chmod +x 1.AID  2.AID  AID_python.py  better_apt.AID  hack.AID  init.AID  readme.txt  update.AID  VM.AID  AID_update.AID  all.AID  installed_init.AID installer.AID
 
-#AID start 0.1
+#AID start 1.1.2
 
 echo "Hello!" 
 
@@ -49,6 +49,10 @@ echo "to update AID run 'sudo ./AID_update.AID'"
 
 echo ""
 
+echo "to install all tools type 'sudo ./all.AID'"
+
+echo ""
+
 echo "visit my github https://github.com/Bumpsh"
 
 echo ""
@@ -61,4 +65,10 @@ echo "this has been tested with kali linux and that only sorry if you have probl
 
 echo ""
 
-echo "if you have just updated AID your new aid is in /home/AID/"
+echo "to install AID to your system type 'sudo ./installer.AID'"
+echo "that way you dont have to use the './' or even have to have this folder downloaded "
+echo "just make sure after updating AID run the 'init.AID' then the 'installer.AID'"
+
+echo ""
+
+echo "if you have just updated AID your new updated AID is in /home/AID/"

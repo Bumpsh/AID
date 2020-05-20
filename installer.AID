@@ -1,0 +1,49 @@
+#installer
+
+echo "this is putting files in /usr/bin"
+
+echo ""
+
+echo "so you type stuff like 'update' and not 'sudo ./update'"
+
+sudo cp update.AID /usr/bin/update
+
+sudo chmod +x /usr/bin/update
+
+sudo cp all.AID /usr/bin/install_all
+
+sudo chmod +x /usr/bin/install_all
+
+sudo cp better_apt.AID /usr/bin/install_fast_apt
+
+sudo chmod +x /usr/bin/install_fast_apt
+
+sudo cp hack.AID /usr/bin/hack_installer
+
+sudo chmod +x /usr/bin/hack_installer
+
+sudo cp VM.AID /usr/bin/VM
+
+sudo chmod +x /usr/bin/VM
+
+sudo cp 1.AID /usr/bin/no_ipv6
+
+sudo chmod +x /usr/bin/no_ipv6
+
+sudo cp 2.AID /usr/bin/ipv6
+
+sudo chmod +x /usr/bin/ipv6
+
+sudo cp AID_update.AID /usr/bin/AID_update
+
+sudo chmod +x /usr/bin/AID_update
+
+sudo cp installed_init.AID /usr/bin/init_help
+
+sudo chmod +x /usr/bin/init_help
+
+echo ""
+
+sudo ./installed_init.AID
+
+echo ""
