@@ -4,5 +4,4 @@ sudo chmod +x init.AID
 
 sudo ./init.AID
  
- then the rest is printed on the screen.
- 
+ Then the rest is printed in your linux terminal.

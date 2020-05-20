@@ -1,0 +1,27 @@
+sudo apt install wget 
+
+echo ""
+
+echo "downloading..."
+
+echo ""
+
+wget https://download.virtualbox.org/virtualbox/6.1.8/virtualbox-6.1_6.1.8-137981~Debian~buster_amd64.deb
+
+echo ""
+
+echo "installing..."
+
+sudo dpkg -i virtualbox-6.1_6.1.8-137981~Debian~buster_amd64.deb
+
+echo ""
+
+echo "downloading extension pack"
+
+echo ""
+
+wget https://download.virtualbox.org/virtualbox/6.1.8/Oracle_VM_VirtualBox_Extension_Pack-6.1.8.vbox-extpack
+
+echo "please open your file browser and click on the Oracle_VM_VirtualBox_Extension_Pack-6.1.8.vbox-extpack"
+
+sudo rm -rf virtualbox-6.1_6.1.8-137981~Debian~buster_amd64.deb 

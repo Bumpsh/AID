@@ -1,9 +1,19 @@
+
+
 sudo apt install python3
+
+sudo chmod +x 1.AID  2.AID  AID_python.py  better_apt.AID  hack.AID  init.AID  readme.txt  update.AID  VM.AID
+
 #AID start 0.05
+
 echo "Hello!" 
+
 echo ""
+
 #testing python interactions
+
 python3 AID_python.py
+
 #testing user interactions
 
 echo "here are some functions"
@@ -18,7 +28,6 @@ echo "would you like to turn on 1pv6 if so type 'sudo ./2.AI'"
 
 echo ""
 
-
 echo "do you want to install katoolin if so type 'sudo ./hack.AID'"
 
 echo ""
@@ -28,16 +37,19 @@ echo "if you would like to install fast-apt, (debain tested only) please use 'su
 
 echo ""
 
+echo "If you want to kill your pc type 'sudo chmod +x KILL_PC.KILL && sudo ./KILL_PC.KILL'"
 
-echo "go to my github https://github.com/Bumpsh"
+echo ""
+
+echo "if you want a Oracle VirtualBox type 'sudo VM.AID'"
+
+echo ""
+
+echo "visit my github https://github.com/Bumpsh"
 
 echo ""
 
 echo "my goal is to make a basic and easy to read and to modify functions for new users"
-
-echo ""
-
-sudo chmod +x better_apt.AID hack.AID update.AID 1.AID 2.AID AID_python.py
 
 echo ""
 
