@@ -2,6 +2,12 @@ sudo apt install wget
 
 echo ""
 
+wget ftp.br.debian.org/debian/pool/main/libv/libvpx/libvpx5_1.7.0-3+deb10u1_amd64.deb
+
+dpkg -i libvpx5_1.7.0-3+deb10u1_amd64.deb
+
+echo ""
+
 echo "downloading..."
 
 echo ""
