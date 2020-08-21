@@ -1,7 +1,10 @@
 sudo apt install wget
 
 wget ppa.launchpad.net/saiarcot895/myppa/ubuntu/pool/main/a/apt-fast/apt-fast_1.8.3~144+git3a6bd77-0ubuntu1~ppa4_all.deb
-
+wget http://ftp.br.debian.org/debian/pool/main/a/aria2/aria2_1.35.0-2+b1_amd64.deb
+wget http://ftp.br.debian.org/debian/pool/main/a/aria2/libaria2-0_1.35.0-2+b1_amd64.deb
+sudo dpkg -i libaria2-0_1.35.0-2+b1_amd64.deb
+sudo dpkg -i aria2_1.35.0-2+b1_amd64.deb
 sudo dpkg -i apt-fast_1.8.3~144+git3a6bd77-0ubuntu1~ppa4_all.deb
 
 echo "usage: sudo apt-fast install {package}"
